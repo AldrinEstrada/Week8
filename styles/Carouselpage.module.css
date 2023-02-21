@@ -1,0 +1,13 @@
+.main {
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
+    align-content: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
